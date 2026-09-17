@@ -1,0 +1,4 @@
+# dsh-offpeak-job：Host 调度服务 + HTTP API；Client 半由 dsh.client 扫描自动加载
+- insert:
+    - id: dsh-offpeak-job
+      name: dsh-offpeak-job

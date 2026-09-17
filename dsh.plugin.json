@@ -1,0 +1,12 @@
+{
+  "name": "dsh-offpeak-job",
+  "description": "会话谷时开关；在设置→模型的提供方卡片配置峰谷时间段",
+  "version": "0.3.0",
+  "entry": {
+    "name": "dsh-offpeak-job",
+    "inject": ["webServer"]
+  },
+  "client": {
+    "platform": "web"
+  }
+}
